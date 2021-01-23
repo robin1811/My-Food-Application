@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Steve Rogers",
+        "email": "steve@test.com"
+    },
+    {
+        "id": 2,
+        "name": "Tony stark",
+        "email": "tony@test.com"
+    },
+    {
+        "id": 3,
+        "name": "peter parker",
+        "email": "parker@test.com"
+    },
+    {
+        "id": 4,
+        "name": "bruce banner",
+        "email": "bruce@test.com"
+    }
+]

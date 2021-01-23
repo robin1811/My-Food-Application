@@ -1,0 +1,22 @@
+[
+    {
+        "id": 2,
+        "plans": "veagn",
+        "food": "Rice"
+    },
+    {
+        "id": 3,
+        "food": "new food",
+        "plans": "non vegan"
+    },
+    {
+        "id": 4,
+        "plans": "veagn",
+        "food": "Salad"
+    },
+    {
+        "id": "1b0a2b9f-a95e-4081-981f-f26232bee0af",
+        "plans": "non veg",
+        "food": "chicken"
+    }
+]
